@@ -1,3 +1,3 @@
 # homework3
 the 3th assilgnment
-weather.gif
+![image](https://github.com/hajunfeng/homework3/blob/master/weather.gif )   
